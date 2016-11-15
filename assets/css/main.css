@@ -14,7 +14,9 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
-
+#why-i-code{
+	font-size: 13.4px;
+}
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
