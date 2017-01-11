@@ -14,6 +14,9 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+	a{
+		text-decoration: none;
+	}
 #why-i-code{
 	font-size: 13.4px;
 }
